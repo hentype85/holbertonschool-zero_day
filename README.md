@@ -1,1 +1,1 @@
-<h1>This project is based on a test on how friendly you are with github</h1>
+<h1>This project is a test with github</h1>
